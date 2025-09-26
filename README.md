@@ -1,5 +1,5 @@
 # Experiment-8
-#Study the system specifications of an ATM system and report any identified bugs.
+## Study the system specifications of an ATM system and report any identified bugs.
 ## Purpose: 
 The purpose of this report is to study the system specifications of an Automated Teller Machine (ATM) system, identify potential issues, and report any possible bugs in its design, functionality, or operation.
 ## Scope:
